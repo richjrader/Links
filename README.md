@@ -11,3 +11,7 @@ https://stackoverflow.com/questions/39195232/how-to-setup-bootstrap-4-scss-with-
 https://github.com/skolmer/react-hot-boilerplate-vscode/tree/master/.vscode
 
 https://github.com/brillout/awesome-react-components
+
+https://www.erikheemskerk.nl/ddd-persistence-recorded-event-driven-persistence/
+
+https://github.com/markerikson/react-redux-links
