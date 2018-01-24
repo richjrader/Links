@@ -15,3 +15,5 @@ https://github.com/brillout/awesome-react-components
 https://www.erikheemskerk.nl/ddd-persistence-recorded-event-driven-persistence/
 
 https://github.com/markerikson/react-redux-links
+
+https://www.npmjs.com/package/babel-plugin-transform-imports
